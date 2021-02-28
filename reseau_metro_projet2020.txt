@@ -1,0 +1,1483 @@
+###### Liste des stations (ligne suivante = nombre de stations)
+388
+###### Nombre de stations sur chaque ligne (lignes 1 à 14, puis lignes 3bis et 7bis)
+25:25:25:27:22:28:38:38:37:23:13:29:32:9:4:8
+###### Stations Ligne 1
+1:Grande Arche de La Défense:1
+2:Esplanade de La Défense:1
+3:Pont de Neuilly:1
+4:Les Sablons:1
+5:Porte Maillot:1
+6:Argentine:1
+7:Charles de Gaulle - Etoile:1
+8:George V:1
+9:Franklin D. Roosevelt:1
+10:Champs Elysées - Clémenceau:1
+11:Concorde:1
+12:Tuileries:1
+13:Palais Royal - Musée du Louvre:1
+14:Louvre - Rivoli:1
+15:Châtelet:1
+16:Hôtel de Ville:1
+17:Saint-Paul:1
+18:Bastille:1
+19:Gare de Lyon:1
+20:Reuilly - Diderot:1
+21:Nation:1
+22:Porte de Vincennes:1
+23:Saint-Mandé:1
+24:Bérault:1
+25:Château de Vincennes:1
+###### Stations Ligne 2
+26:Porte Dauphine:2
+27:Victor Hugo:2
+28:Charles de Gaulle - Etoile:2
+29:Ternes:2
+30:Courcelles:2
+31:Monceau:2
+32:Villiers:2
+33:Rome:2
+34:Place de Clichy:2
+35:Blanche:2
+36:Pigalle:2
+37:Anvers:2
+38:Barbès - Rochechouart:2
+39:La Chapelle:2
+40:Stalingrad:2
+41:Jaurès:2
+42:Colonel Fabien:2
+43:Belleville:2
+44:Couronnes:2
+45:Ménilmontant:2
+46:Père Lachaise:2
+47:Philippe Auguste:2
+48:Alexandre Dumas:2
+49:Avron:2
+50:Nation:2
+###### Stations Ligne 3
+51:Pont de Levallois - Bécon:3
+52:Anatole France:3
+53:Louise Michel:3
+54:Porte de Champerret:3
+55:Péreire:3
+56:Wagram:3
+57:Malesherbes:3
+58:Villiers:3
+59:Europe:3
+60:Saint-Lazare:3
+61:Havre - Caumartin:3
+62:Opéra:3
+63:Quatre Septembre:3
+64:Bourse:3
+65:Sentier:3
+66:Réaumur - Sébastopol:3
+67:Arts et Métiers:3
+68:Temple:3
+69:République:3
+70:Parmentier:3
+71:Rue Saint-Maur:3
+72:Père Lachaise:3
+73:Gambetta:3
+74:Porte de Bagnolet:3
+75:Gallieni:3
+###### Stations Ligne 4
+76:Porte de Clignancourt:4
+77:Simplon:4
+78:Marcadet - Poissonniers:4
+79:Château Rouge:4
+80:Barbès - Rochechouart:4
+81:Gare du Nord:4
+82:Gare de l'Est:4
+83:Château d'Eau:4
+84:Strasbourg - Saint-Denis:4
+85:Réaumur - Sébastopol:4
+86:Etienne Marcel:4
+87:Les Halles:4
+88:Châtelet:4
+89:Cité:4
+90:Saint-Michel:4
+91:Odéon:4
+92:Saint-Germain des Prés:4
+93:Saint-Sulpice:4
+94:Saint-Placide:4
+95:Montparnasse - Bienvenüe:4
+96:Vavin:4
+97:Raspail:4
+98:Denfert Rochereau:4
+99:Mouton Duvernet:4
+100:Alésia:4
+101:Porte d'Orléans:4
+102:Mairie de Montrouge:4
+###### Stations Ligne 5
+103:Bobigny - Pablo Picasso:5
+104:Bobigny - Pantin - Raymond Queneau:5
+105:Eglise de Pantin:5
+106:Hoche:5
+107:Porte de Pantin:5
+108:Ourcq:5
+109:Laumière:5
+110:Jaurès:5
+111:Stalingrad:5
+112:Gare du Nord:5
+113:Gare de l'Est:5
+114:Jacques Bonsergent:5
+115:République:5
+116:Oberkampf:5
+117:Richard Lenoir:5
+118:Bréguet - Sabin:5
+119:Bastille:5
+120:Quai de la Rapée:5
+121:Gare d'Austerlitz:5
+122:Saint-Marcel:5
+123:Campo Formio:5
+124:Place d'Italie:5
+###### Stations Ligne 6
+125:Charles de Gaulle - Etoile:6
+126:Kléber:6
+127:Boissière:6
+128:Trocadéro:6
+129:Passy:6
+130:Bir Hakeim:6
+131:Dupleix:6
+132:La Motte-Picquet - Grenelle:6
+133:Cambronne:6
+134:Sèvres - Lecourbe:6
+135:Pasteur:6
+136:Montparnasse - Bienvenüe:6
+137:Edgar Quinet:6
+138:Raspail:6
+139:Denfert Rochereau:6
+140:Saint-Jacques:6
+141:Glacière:6
+142:Corvisart:6
+143:Place d'Italie:6
+144:Nationale:6
+145:Chevaleret:6
+146:Quai de la Gare:6
+147:Bercy:6
+148:Dugommier:6
+149:Daumesnil:6
+150:Bel Air:6
+151:Picpus:6
+152:Nation:6
+###### Stations Ligne 7
+153:La Courneuve - 8 Mai 1945:7
+154:Fort d'Aubervilliers:7
+155:Aubervilliers - Pantin Quatre Chemins:7
+156:Porte de la Villette:7
+157:Corentin Cariou:7
+158:Crimée:7
+159:Riquet:7
+160:Stalingrad:7
+161:Louis Blanc:7
+162:Château Landon:7
+163:Gare de l'Est:7
+164:Poissonnière:7
+165:Cadet:7
+166:Le Peletier:7
+167:Chaussée d'Antin - La Fayette:7
+168:Opéra:7
+169:Pyramides:7
+170:Palais Royal - Musée du Louvre:7
+171:Pont Neuf:7
+172:Châtelet:7
+173:Pont Marie:7
+174:Sully - Morland:7
+175:Jussieu:7
+176:Place Monge:7
+177:Censier - Daubenton:7
+178:Les Gobelins:7
+179:Place d'Italie:7
+180:Tolbiac:7
+181:Maison Blanche:7
+182:Porte d'Italie:7
+183:Porte de Choisy:7
+184:Porte d'Ivry:7
+185:Pierre et Marie Curie:7
+186:Mairie d'Ivry:7
+187:Le Kremlin Bicêtre:7
+188:Villejuif - Léo Lagrange:7
+189:Villejuif - Paul Vaillant-Couturier:7
+190:Villejuif - Louis Aragon:7
+###### Stations Ligne 8
+191:Balard:8
+192:Lourmel:8
+193:Boucicaut:8
+194:Félix Faure:8
+195:Commerce:8
+196:La Motte-Picquet - Grenelle:8
+197:Ecole Militaire:8
+198:La Tour Maubourg:8
+199:Invalides:8
+200:Concorde:8
+201:Madeleine:8
+202:Opéra:8
+203:Richelieu - Drouot:8
+204:Grands Boulevards:8
+205:Bonne Nouvelle:8
+206:Strasbourg - Saint-Denis:8
+207:République:8
+208:Filles du Calvaire:8
+209:Saint-Sébastien - Froissart:8
+210:Chemin Vert:8
+211:Bastille:8
+212:Ledru Rollin:8
+213:Faidherbe - Chaligny:8
+214:Reuilly - Diderot:8
+215:Montgallet:8
+216:Daumesnil:8
+217:Michel Bizot:8
+218:Porte Dorée:8
+219:Porte de Charenton:8
+220:Liberté:8
+221:Charenton - Ecoles:8
+222:Ecole Vétérinaire de Maison-Alfort:8
+223:Maisons-Alfort - Stade:8
+224:Maisons-Alfort - Les Juilliottes:8
+225:Créteil - L'Echat:8
+226:Créteil - Université:8
+227:Créteil - Préfecture:8
+228:Pointe du Lac:8
+###### Stations Ligne 9
+229:Pont de Sèvres:9
+230:Billancourt:9
+231:Marcel Sembat:9
+232:Porte de Saint-Cloud:9
+233:Exelmans:9
+234:Michel-Ange - Molitor:9
+235:Michel-Ange - Auteuil:9
+236:Jasmin:9
+237:Ranelagh:9
+238:La Muette:9
+239:Rue de la Pompe:9
+240:Trocadéro:9
+241:Iéna:9
+242:Alma - Marceau:9
+243:Franklin D. Roosevelt:9
+244:Saint-Philippe du Roule:9
+245:Miromesnil:9
+246:Saint-Augustin:9
+247:Havre - Caumartin:9
+248:Chaussée d'Antin - La Fayette:9
+249:Richelieu - Drouot:9
+250:Grands Boulevards:9
+251:Bonne Nouvelle:9
+252:Strasbourg - Saint-Denis:9
+253:République:9
+254:Oberkampf:9
+255:Saint-Ambroise:9
+256:Voltaire:9
+257:Charonne:9
+258:Rue des Boulets:9
+259:Nation:9
+260:Buzenval:9
+261:Maraîchers:9
+262:Porte de Montreuil:9
+263:Robespierre:9
+264:Croix de Chavaux:9
+265:Mairie de Montreuil:9
+###### Stations Ligne 10
+266:Boulogne - Pont de Saint-Cloud:10
+267:Boulogne - Jean Jaurès:10
+268:Michel-Ange - Molitor:10
+269:Chardon - Lagache:10
+270:Mirabeau:10
+271:Javel - André Citroën:10
+272:Eglise d'Auteuil:10
+273:Michel-Ange - Auteuil:10
+274:Porte d'Auteuil:10
+275:Charles Michels:10
+276:Avenue Emile Zola:10
+277:La Motte-Picquet - Grenelle:10
+278:Ségur:10
+279:Duroc:10
+280:Vaneau:10
+281:Sèvres - Babylone:10
+282:Mabillon:10
+283:Odéon:10
+284:Cluny - La Sorbonne:10
+285:Maubert - Mutualité:10
+286:Cardinal Lemoine:10
+287:Jussieu:10
+288:Gare d'Austerlitz:10
+###### Stations Ligne 11
+289:Mairie des Lilas:11
+290:Porte des Lilas:11
+291:Télégraphe:11
+292:Place des Fêtes:11
+293:Jourdain:11
+294:Pyrénées:11
+295:Belleville:11
+296:Goncourt:11
+297:République:11
+298:Arts et Métiers:11
+299:Rambuteau:11
+300:Hôtel de Ville:11
+301:Châtelet:11
+###### Stations Ligne 12
+302:Front populaire:12
+303:Porte de la Chapelle:12
+304:Marx Dormoy:12
+305:Marcadet - Poissonniers:12
+306:Jules Joffrin:12
+307:Lamarck - Caulaincourt:12
+308:Abbesses:12
+309:Pigalle:12
+310:Saint-Georges:12
+311:Notre-Dame de Lorette:12
+312:Trinité d'Estienne d'Orves:12
+313:Saint-Lazare:12
+314:Madeleine:12
+315:Concorde:12
+316:Assemblée Nationale:12
+317:Solférino:12
+318:Rue du Bac:12
+319:Sèvres - Babylone:12
+320:Rennes:12
+321:Notre-Dame-des-Champs:12
+322:Montparnasse - Bienvenüe:12
+323:Falguière:12
+324:Pasteur:12
+325:Volontaires:12
+326:Vaugirard:12
+327:Convention:12
+328:Porte de Versailles:12
+329:Corentin Celton:12
+330:Mairie d'Issy:12
+###### Stations Ligne 13
+331:Châtillon - Montrouge:13
+332:Malakoff - Rue Etienne Dolet:13
+333:Malakoff - Plateau de Vanves:13
+334:Porte de Vanves:13
+335:Plaisance:13
+336:Pernety:13
+337:Gaîté:13
+338:Montparnasse - Bienvenüe:13
+339:Duroc:13
+340:Saint-François-Xavier:13
+341:Varenne:13
+342:Invalides:13
+343:Champs Elysées - Clémenceau:13
+344:Miromesnil:13
+345:Saint-Lazare:13
+346:Liège:13
+347:Place de Clichy:13
+348:La Fourche:13
+349:Guy Môquet:13
+350:Porte de Saint-Ouen:13
+351:Garibaldi:13
+352:Mairie de Saint-Ouen:13
+353:Carrefour Pleyel:13
+354:Saint-Denis - Porte de Paris:13
+355:Basilique de Saint-Denis:13
+356:Saint-Denis - Université:13
+357:Brochant:13
+358:Porte de Clichy:13
+359:Mairie de Clichy:13
+360:Gabriel Péri:13
+361:Les Agnettes:13
+362:Les Courtilles:13
+###### Stations Ligne 14
+363:Saint-Lazare:14
+364:Madeleine:14
+365:Pyramides:14
+366:Châtelet:14
+367:Gare de Lyon:14
+368:Bercy:14
+369:Cour Saint-Émilion:14
+370:Bibliothèque François-Mitterrand:14
+371:Olympiades:14
+###### Stations Ligne 3bis
+372:Gambetta:33
+373:Pelleport:33
+374:Saint-Fargeau:33
+375:Porte des Lilas:33
+###### Stations Ligne 7bis
+376:Louis Blanc:77
+377:Jaurès:77
+378:Bolivar:77
+379:Buttes Chaumont:77
+380:Botzaris:77
+381:Place des Fêtes:77
+382:Pré-Saint-Gervais:77
+383:Danube:77
+###### Changement à Maison Blanche (2 minutes) : ligne 7
+384:Maison Blanche:7
+###### Changement à Boulogne - Jean Jaurès (2 minutes) : ligne 10
+385:Boulogne - Jean Jaurès:10
+###### Changement à Javel - André Citroën (2 minutes) : ligne 10
+386:Javel - André Citroën:10
+###### Changement à La Fourche (2 minutes) : ligne 13
+387:La Fourche:13
+###### Changement à Botzaris (2 minutes) : ligne 7bis
+388:Botzaris:77
+###### Liste des arcs (ligne suivante = nombre d'arcs)
+984
+###### Arcs Ligne 1
+1:1:2:2
+2:2:1:2
+3:2:3:2
+4:3:2:2
+5:3:4:2
+6:4:3:2
+7:4:5:2
+8:5:4:2
+9:5:6:2
+10:6:5:2
+11:6:7:2
+12:7:6:2
+13:7:8:2
+14:8:7:2
+15:8:9:2
+16:9:8:2
+17:9:10:2
+18:10:9:2
+19:10:11:2
+20:11:10:2
+21:11:12:2
+22:12:11:2
+23:12:13:2
+24:13:12:2
+25:13:14:2
+26:14:13:2
+27:14:15:2
+28:15:14:2
+29:15:16:2
+30:16:15:2
+31:16:17:2
+32:17:16:2
+33:17:18:2
+34:18:17:2
+35:18:19:2
+36:19:18:2
+37:19:20:2
+38:20:19:2
+39:20:21:2
+40:21:20:2
+41:21:22:2
+42:22:21:2
+43:22:23:2
+44:23:22:2
+45:23:24:2
+46:24:23:2
+47:24:25:2
+48:25:24:2
+###### Arcs Ligne 2
+49:26:27:2
+50:27:26:2
+51:27:28:2
+52:28:27:2
+53:28:29:2
+54:29:28:2
+55:29:30:2
+56:30:29:2
+57:30:31:2
+58:31:30:2
+59:31:32:2
+60:32:31:2
+61:32:33:2
+62:33:32:2
+63:33:34:2
+64:34:33:2
+65:34:35:2
+66:35:34:2
+67:35:36:2
+68:36:35:2
+69:36:37:2
+70:37:36:2
+71:37:38:2
+72:38:37:2
+73:38:39:2
+74:39:38:2
+75:39:40:2
+76:40:39:2
+77:40:41:2
+78:41:40:2
+79:41:42:2
+80:42:41:2
+81:42:43:2
+82:43:42:2
+83:43:44:2
+84:44:43:2
+85:44:45:2
+86:45:44:2
+87:45:46:2
+88:46:45:2
+89:46:47:2
+90:47:46:2
+91:47:48:2
+92:48:47:2
+93:48:49:2
+94:49:48:2
+95:49:50:2
+96:50:49:2
+###### Arcs Ligne 3
+97:51:52:2
+98:52:51:2
+99:52:53:2
+100:53:52:2
+101:53:54:2
+102:54:53:2
+103:54:55:2
+104:55:54:2
+105:55:56:2
+106:56:55:2
+107:56:57:2
+108:57:56:2
+109:57:58:2
+110:58:57:2
+111:58:59:2
+112:59:58:2
+113:59:60:2
+114:60:59:2
+115:60:61:2
+116:61:60:2
+117:61:62:2
+118:62:61:2
+119:62:63:2
+120:63:62:2
+121:63:64:2
+122:64:63:2
+123:64:65:2
+124:65:64:2
+125:65:66:2
+126:66:65:2
+127:66:67:2
+128:67:66:2
+129:67:68:2
+130:68:67:2
+131:68:69:2
+132:69:68:2
+133:69:70:2
+134:70:69:2
+135:70:71:2
+136:71:70:2
+137:71:72:2
+138:72:71:2
+139:72:73:2
+140:73:72:2
+141:73:74:2
+142:74:73:2
+143:74:75:2
+144:75:74:2
+###### Arcs Ligne 4
+145:76:77:2
+146:77:76:2
+147:77:78:2
+148:78:77:2
+149:78:79:2
+150:79:78:2
+151:79:80:2
+152:80:79:2
+153:80:81:2
+154:81:80:2
+155:81:82:2
+156:82:81:2
+157:82:83:2
+158:83:82:2
+159:83:84:2
+160:84:83:2
+161:84:85:2
+162:85:84:2
+163:85:86:2
+164:86:85:2
+165:86:87:2
+166:87:86:2
+167:87:88:2
+168:88:87:2
+169:88:89:2
+170:89:88:2
+171:89:90:2
+172:90:89:2
+173:90:91:2
+174:91:90:2
+175:91:92:2
+176:92:91:2
+177:92:93:2
+178:93:92:2
+179:93:94:2
+180:94:93:2
+181:94:95:2
+182:95:94:2
+183:95:96:2
+184:96:95:2
+185:96:97:2
+186:97:96:2
+187:97:98:2
+188:98:97:2
+189:98:99:2
+190:99:98:2
+191:99:100:2
+192:100:99:2
+193:100:101:2
+194:101:100:2
+195:101:102:2
+196:102:101:2
+###### Arcs Ligne 5
+197:103:104:2
+198:104:103:2
+199:104:105:2
+200:105:104:2
+201:105:106:2
+202:106:105:2
+203:106:107:2
+204:107:106:2
+205:107:108:2
+206:108:107:2
+207:108:109:2
+208:109:108:2
+209:109:110:2
+210:110:109:2
+211:110:111:2
+212:111:110:2
+213:111:112:2
+214:112:111:2
+215:112:113:2
+216:113:112:2
+217:113:114:2
+218:114:113:2
+219:114:115:2
+220:115:114:2
+221:115:116:2
+222:116:115:2
+223:116:117:2
+224:117:116:2
+225:117:118:2
+226:118:117:2
+227:118:119:2
+228:119:118:2
+229:119:120:2
+230:120:119:2
+231:120:121:2
+232:121:120:2
+233:121:122:2
+234:122:121:2
+235:122:123:2
+236:123:122:2
+237:123:124:2
+238:124:123:2
+###### Arcs Ligne 6
+239:125:126:2
+240:126:125:2
+241:126:127:2
+242:127:126:2
+243:127:128:2
+244:128:127:2
+245:128:129:2
+246:129:128:2
+247:129:130:2
+248:130:129:2
+249:130:131:2
+250:131:130:2
+251:131:132:2
+252:132:131:2
+253:132:133:2
+254:133:132:2
+255:133:134:2
+256:134:133:2
+257:134:135:2
+258:135:134:2
+259:135:136:2
+260:136:135:2
+261:136:137:2
+262:137:136:2
+263:137:138:2
+264:138:137:2
+265:138:139:2
+266:139:138:2
+267:139:140:2
+268:140:139:2
+269:140:141:2
+270:141:140:2
+271:141:142:2
+272:142:141:2
+273:142:143:2
+274:143:142:2
+275:143:144:2
+276:144:143:2
+277:144:145:2
+278:145:144:2
+279:145:146:2
+280:146:145:2
+281:146:147:2
+282:147:146:2
+283:147:148:2
+284:148:147:2
+285:148:149:2
+286:149:148:2
+287:149:150:2
+288:150:149:2
+289:150:151:2
+290:151:150:2
+291:151:152:2
+292:152:151:2
+###### Arcs Ligne 7
+293:153:154:2
+294:154:153:2
+295:154:155:2
+296:155:154:2
+297:155:156:2
+298:156:155:2
+299:156:157:2
+300:157:156:2
+301:157:158:2
+302:158:157:2
+303:158:159:2
+304:159:158:2
+305:159:160:2
+306:160:159:2
+307:160:161:2
+308:161:160:2
+309:161:162:2
+310:162:161:2
+311:162:163:2
+312:163:162:2
+313:163:164:2
+314:164:163:2
+315:164:165:2
+316:165:164:2
+317:165:166:2
+318:166:165:2
+319:166:167:2
+320:167:166:2
+321:167:168:2
+322:168:167:2
+323:168:169:2
+324:169:168:2
+325:169:170:2
+326:170:169:2
+327:170:171:2
+328:171:170:2
+329:171:172:2
+330:172:171:2
+331:172:173:2
+332:173:172:2
+333:173:174:2
+334:174:173:2
+335:174:175:2
+336:175:174:2
+337:175:176:2
+338:176:175:2
+339:176:177:2
+340:177:176:2
+341:177:178:2
+342:178:177:2
+343:178:179:2
+344:179:178:2
+345:179:180:2
+346:180:179:2
+347:180:181:2
+348:181:180:2
+349:181:182:2
+350:182:181:2
+351:182:183:2
+352:183:182:2
+353:183:184:2
+354:184:183:2
+355:184:185:2
+356:185:184:2
+357:185:186:2
+358:186:185:2
+359:384:187:2
+360:187:384:2
+361:187:188:2
+362:188:187:2
+363:188:189:2
+364:189:188:2
+365:189:190:2
+366:190:189:2
+###### Arcs Ligne 8
+367:191:192:2
+368:192:191:2
+369:192:193:2
+370:193:192:2
+371:193:194:2
+372:194:193:2
+373:194:195:2
+374:195:194:2
+375:195:196:2
+376:196:195:2
+377:196:197:2
+378:197:196:2
+379:197:198:2
+380:198:197:2
+381:198:199:2
+382:199:198:2
+383:199:200:2
+384:200:199:2
+385:200:201:2
+386:201:200:2
+387:201:202:2
+388:202:201:2
+389:202:203:2
+390:203:202:2
+391:203:204:2
+392:204:203:2
+393:204:205:2
+394:205:204:2
+395:205:206:2
+396:206:205:2
+397:206:207:2
+398:207:206:2
+399:207:208:2
+400:208:207:2
+401:208:209:2
+402:209:208:2
+403:209:210:2
+404:210:209:2
+405:210:211:2
+406:211:210:2
+407:211:212:2
+408:212:211:2
+409:212:213:2
+410:213:212:2
+411:213:214:2
+412:214:213:2
+413:214:215:2
+414:215:214:2
+415:215:216:2
+416:216:215:2
+417:216:217:2
+418:217:216:2
+419:217:218:2
+420:218:217:2
+421:218:219:2
+422:219:218:2
+423:219:220:2
+424:220:219:2
+425:220:221:2
+426:221:220:2
+427:221:222:2
+428:222:221:2
+429:222:223:2
+430:223:222:2
+431:223:224:2
+432:224:223:2
+433:224:225:2
+434:225:224:2
+435:225:226:2
+436:226:225:2
+437:226:227:2
+438:227:226:2
+439:227:228:2
+440:228:227:2
+###### Arcs Ligne 9
+441:229:230:2
+442:230:229:2
+443:230:231:2
+444:231:230:2
+445:231:232:2
+446:232:231:2
+447:232:233:2
+448:233:232:2
+449:233:234:2
+450:234:233:2
+451:234:235:2
+452:235:234:2
+453:235:236:2
+454:236:235:2
+455:236:237:2
+456:237:236:2
+457:237:238:2
+458:238:237:2
+459:238:239:2
+460:239:238:2
+461:239:240:2
+462:240:239:2
+463:240:241:2
+464:241:240:2
+465:241:242:2
+466:242:241:2
+467:242:243:2
+468:243:242:2
+469:243:244:2
+470:244:243:2
+471:244:245:2
+472:245:244:2
+473:245:246:2
+474:246:245:2
+475:246:247:2
+476:247:246:2
+477:247:248:2
+478:248:247:2
+479:248:249:2
+480:249:248:2
+481:249:250:2
+482:250:249:2
+483:250:251:2
+484:251:250:2
+485:251:252:2
+486:252:251:2
+487:252:253:2
+488:253:252:2
+489:253:254:2
+490:254:253:2
+491:254:255:2
+492:255:254:2
+493:255:256:2
+494:256:255:2
+495:256:257:2
+496:257:256:2
+497:257:258:2
+498:258:257:2
+499:258:259:2
+500:259:258:2
+501:259:260:2
+502:260:259:2
+503:260:261:2
+504:261:260:2
+505:261:262:2
+506:262:261:2
+507:262:263:2
+508:263:262:2
+509:263:264:2
+510:264:263:2
+511:264:265:2
+512:265:264:2
+###### Arcs Ligne 10
+513:275:276:2
+514:276:275:2
+515:276:277:2
+516:277:276:2
+517:277:278:2
+518:278:277:2
+519:278:279:2
+520:279:278:2
+521:279:280:2
+522:280:279:2
+523:280:281:2
+524:281:280:2
+525:281:282:2
+526:282:281:2
+527:282:283:2
+528:283:282:2
+529:283:284:2
+530:284:283:2
+531:284:285:2
+532:285:284:2
+533:285:286:2
+534:286:285:2
+535:286:287:2
+536:287:286:2
+537:287:288:2
+538:288:287:2
+539:266:267:2
+540:267:266:2
+541:385:268:2
+542:268:269:2
+543:269:270:2
+544:270:271:2
+545:386:272:2
+546:272:273:2
+547:273:274:2
+548:274:267:2
+549:271:275:2
+550:275:271:2
+###### Arcs Ligne 11
+551:289:290:2
+552:290:289:2
+553:290:291:2
+554:291:290:2
+555:291:292:2
+556:292:291:2
+557:292:293:2
+558:293:292:2
+559:293:294:2
+560:294:293:2
+561:294:295:2
+562:295:294:2
+563:295:296:2
+564:296:295:2
+565:296:297:2
+566:297:296:2
+567:297:298:2
+568:298:297:2
+569:298:299:2
+570:299:298:2
+571:299:300:2
+572:300:299:2
+573:300:301:2
+574:301:300:2
+###### Arcs Ligne 12
+575:302:303:2
+576:303:302:2
+577:303:304:2
+578:304:303:2
+579:304:305:2
+580:305:304:2
+581:305:306:2
+582:306:305:2
+583:306:307:2
+584:307:306:2
+585:307:308:2
+586:308:307:2
+587:308:309:2
+588:309:308:2
+589:309:310:2
+590:310:309:2
+591:310:311:2
+592:311:310:2
+593:311:312:2
+594:312:311:2
+595:312:313:2
+596:313:312:2
+597:313:314:2
+598:314:313:2
+599:314:315:2
+600:315:314:2
+601:315:316:2
+602:316:315:2
+603:316:317:2
+604:317:316:2
+605:317:318:2
+606:318:317:2
+607:318:319:2
+608:319:318:2
+609:319:320:2
+610:320:319:2
+611:320:321:2
+612:321:320:2
+613:321:322:2
+614:322:321:2
+615:322:323:2
+616:323:322:2
+617:323:324:2
+618:324:323:2
+619:324:325:2
+620:325:324:2
+621:325:326:2
+622:326:325:2
+623:326:327:2
+624:327:326:2
+625:327:328:2
+626:328:327:2
+627:328:329:2
+628:329:328:2
+629:329:330:2
+630:330:329:2
+###### Arcs Ligne 13
+631:331:332:2
+632:332:331:2
+633:332:333:2
+634:333:332:2
+635:333:334:2
+636:334:333:2
+637:334:335:2
+638:335:334:2
+639:335:336:2
+640:336:335:2
+641:336:337:2
+642:337:336:2
+643:337:338:2
+644:338:337:2
+645:338:339:2
+646:339:338:2
+647:339:340:2
+648:340:339:2
+649:340:341:2
+650:341:340:2
+651:341:342:2
+652:342:341:2
+653:342:343:2
+654:343:342:2
+655:343:344:2
+656:344:343:2
+657:344:345:2
+658:345:344:2
+659:345:346:2
+660:346:345:2
+661:346:347:2
+662:347:346:2
+663:347:348:2
+664:348:347:2
+665:348:349:2
+666:349:348:2
+667:349:350:2
+668:350:349:2
+669:350:351:2
+670:351:350:2
+671:351:352:2
+672:352:351:2
+673:352:353:2
+674:353:352:2
+675:353:354:2
+676:354:353:2
+677:354:355:2
+678:355:354:2
+679:355:356:2
+680:356:355:2
+681:387:357:2
+682:357:387:2
+683:357:358:2
+684:358:357:2
+685:358:359:2
+686:359:358:2
+687:359:360:2
+688:360:359:2
+689:360:361:2
+690:361:360:2
+691:361:362:2
+692:362:361:2
+###### Arcs Ligne 14
+693:363:364:2
+694:364:363:2
+695:364:365:2
+696:365:364:2
+697:365:366:2
+698:366:365:2
+699:366:367:2
+700:367:366:2
+701:367:368:2
+702:368:367:2
+703:368:369:2
+704:369:368:2
+705:369:370:2
+706:370:369:2
+707:370:371:2
+708:371:370:2
+###### Arcs Ligne 3 bis
+709:372:373:2
+710:373:372:2
+711:373:374:2
+712:374:373:2
+713:374:375:2
+714:375:374:2
+###### Arcs Ligne 7 bis
+715:376:377:2
+716:377:376:2
+717:377:378:2
+718:378:377:2
+719:378:379:2
+720:379:378:2
+721:379:380:2
+722:380:379:2
+723:380:381:2
+724:381:382:2
+725:382:383:2
+726:383:388:2
+###### Arcs des changements à Franklin D. Roosevelt (2 minutes chacun) : lignes 1,9
+727:9:243:2
+728:243:9:2
+###### Arcs des changements à Champs Elysées - Clémenceau (2 minutes chacun) : lignes 1,13
+729:10:343:2
+730:343:10:2
+###### Arcs des changements à Palais Royal - Musée du Louvre (2 minutes chacun) : lignes 1,7
+731:13:170:2
+732:170:13:2
+###### Arcs des changements à Hôtel de Ville (2 minutes chacun) : lignes 1,11
+733:16:300:2
+734:300:16:2
+###### Arcs des changements à Gare de Lyon (4 minutes chacun) : lignes 1,14
+735:19:367:4
+736:367:19:4
+###### Arcs des changements à Reuilly - Diderot (2 minutes chacun) : lignes 1,8
+737:20:214:2
+738:214:20:2
+###### Arcs des changements à Villiers (2 minutes chacun) : lignes 2,3
+739:32:58:2
+740:58:32:2
+###### Arcs des changements à Place de Clichy (2 minutes chacun) : lignes 2,13
+741:34:347:2
+742:347:34:2
+###### Arcs des changements à Barbès - Rochechouart (2 minutes chacun) : lignes 2,4
+743:38:80:2
+744:80:38:2
+###### Arcs des changements à Belleville (2 minutes chacun) : lignes 2,11
+745:43:295:2
+746:295:43:2
+###### Arcs des changements à Père Lachaise (2 minutes chacun) : lignes 2,3
+747:46:72:2
+748:72:46:2
+###### Arcs des changements à Havre - Caumartin (2 minutes chacun) : lignes 3,9
+749:61:247:2
+750:247:61:2
+###### Arcs des changements à Réaumur - Sébastopol (2 minutes chacun) : lignes 3,4
+751:66:85:2
+752:85:66:2
+###### Arcs des changements à Arts et Métiers (2 minutes chacun) : lignes 3,11
+753:67:298:2
+754:298:67:2
+###### Arcs des changements à Gambetta (2 minutes chacun) : lignes 3,33
+755:73:372:2
+756:372:73:2
+###### Arcs des changements à Marcadet - Poissonniers (2 minutes chacun) : lignes 4,12
+757:78:305:2
+758:305:78:2
+###### Arcs des changements à Odéon (2 minutes chacun) : lignes 4,10
+759:91:283:2
+760:283:91:2
+###### Arcs des changements à Raspail (2 minutes chacun) : lignes 4,6
+761:97:138:2
+762:138:97:2
+###### Arcs des changements à Denfert Rochereau (3 minutes chacun) : lignes 4,6
+763:98:139:3
+764:139:98:3
+###### Arcs des changements à Oberkampf (2 minutes chacun) : lignes 5,9
+765:116:254:2
+766:254:116:2
+###### Arcs des changements à Gare d'Austerlitz (3 minutes chacun) : lignes 5,10
+767:121:288:3
+768:288:121:3
+###### Arcs des changements à Trocadéro (2 minutes chacun) : lignes 6,9
+769:128:240:2
+770:240:128:2
+###### Arcs des changements à Pasteur (2 minutes chacun) : lignes 6,12
+771:135:324:2
+772:324:135:2
+###### Arcs des changements à Bercy (2 minutes chacun) : lignes 6,14
+773:147:368:2
+774:368:147:2
+###### Arcs des changements à Daumesnil (2 minutes chacun) : lignes 6,8
+775:149:216:2
+776:216:149:2
+###### Arcs des changements à Louis Blanc (2 minutes chacun) : lignes 7,77
+777:161:376:2
+778:376:161:2
+###### Arcs des changements à Chaussée d'Antin - La Fayette (2 minutes chacun) : lignes 7,9
+779:167:248:2
+780:248:167:2
+###### Arcs des changements à Pyramides (2 minutes chacun) : lignes 7,14
+781:169:365:2
+782:365:169:2
+###### Arcs des changements à Jussieu (2 minutes chacun) : lignes 7,10
+783:175:287:2
+784:287:175:2
+###### Arcs des changements à Invalides (2 minutes chacun) : lignes 8,13
+785:199:342:2
+786:342:199:2
+###### Arcs des changements à Richelieu - Drouot (2 minutes chacun) : lignes 8,9
+787:203:249:2
+788:249:203:2
+###### Arcs des changements à Grands Boulevards (2 minutes chacun) : lignes 8,9
+789:204:250:2
+790:250:204:2
+###### Arcs des changements à Bonne Nouvelle (2 minutes chacun) : lignes 8,9
+791:205:251:2
+792:251:205:2
+###### Arcs des changements à Michel-Ange - Molitor (2 minutes chacun) : lignes 9,10
+793:234:268:2
+794:268:234:2
+###### Arcs des changements à Michel-Ange - Auteuil (2 minutes chacun) : lignes 9,10
+795:235:273:2
+796:273:235:2
+###### Arcs des changements à Miromesnil (2 minutes chacun) : lignes 9,13
+797:245:344:2
+798:344:245:2
+###### Arcs des changements à Sèvres - Babylone (2 minutes chacun) : lignes 10,12
+799:281:319:2
+800:319:281:2
+###### Arcs des changements à Duroc (2 minutes chacun) : lignes 10,13
+801:279:339:2
+802:339:279:2
+###### Arcs des changements à Place des Fêtes (2 minutes chacun) : lignes 11,77
+803:292:381:2
+804:381:292:2
+###### Arcs des changements à Porte des Lilas (2 minutes chacun) : lignes 11,33
+805:290:375:2
+806:375:290:2
+###### Arcs des changements à Charles de Gaulle - Etoile (3 minutes chacun) : lignes 1,2,6
+807:7:28:3
+808:28:7:3
+809:7:125:3
+810:125:7:3
+811:28:125:3
+812:125:28:3
+###### Arcs des changements à Concorde (3 minutes chacun) : lignes 1,8,12
+813:11:200:3
+814:200:11:3
+815:11:315:3
+816:315:11:3
+817:200:315:3
+818:315:200:3
+###### Arcs des changements à Châtelet (5 minutes chacun) : lignes 1,4,7,11,14
+819:15:88:5
+820:88:15:5
+821:15:172:5
+822:172:15:5
+823:15:301:5
+824:301:15:5
+825:15:366:5
+826:366:15:5
+827:88:172:5
+828:172:88:5
+829:88:301:5
+830:301:88:5
+831:88:366:5
+832:366:88:5
+833:172:301:5
+834:301:172:5
+835:172:366:5
+836:366:172:5
+837:301:366:5
+838:366:301:5
+###### Arcs des changements à Bastille (3 minutes chacun) : lignes 1,5,8
+839:18:119:3
+840:119:18:3
+841:18:211:3
+842:211:18:3
+843:119:211:3
+844:211:119:3
+###### Arcs des changements à Nation (4 minutes chacun) : lignes 1,2,6,9
+845:21:50:4
+846:50:21:4
+847:21:152:4
+848:152:21:4
+849:21:259:4
+850:259:21:4
+851:50:152:4
+852:152:50:4
+853:50:259:4
+854:259:50:4
+855:152:259:4
+856:259:152:4
+###### Arcs des changements à Gare du Nord (2 minutes chacun) : lignes 4,5
+857:81:112:2
+858:112:81:2
+###### Arcs des changements à Stalingrad (3 minutes chacun) : lignes 2,5,7
+859:40:111:3
+860:111:40:3
+861:40:160:3
+862:160:40:3
+863:111:160:3
+864:160:111:3
+###### Arcs des changements à Jaurès (3 minutes chacun) : lignes 2,5,77
+865:41:110:3
+866:110:41:3
+867:41:377:3
+868:377:41:3
+869:110:377:3
+870:377:110:3
+###### Arcs des changements à Saint-Lazare (4 minutes chacun) : lignes 3,12,13,14
+871:60:313:4
+872:313:60:4
+873:60:345:4
+874:345:60:4
+875:60:363:4
+876:363:60:4
+877:313:345:4
+878:345:313:4
+879:313:363:4
+880:363:313:4
+881:345:363:4
+882:363:345:4
+###### Arcs des changements à Opéra (3 minutes chacun) : lignes 3,7,8
+883:62:168:3
+884:168:62:3
+885:62:202:3
+886:202:62:3
+887:168:202:3
+888:202:168:3
+###### Arcs des changements à République (5 minutes chacun) : lignes 3,5,8,9,11
+889:69:115:5
+890:115:69:5
+891:69:207:5
+892:207:69:5
+893:69:253:5
+894:253:69:5
+895:69:297:5
+896:297:69:5
+897:115:207:5
+898:207:115:5
+899:115:253:5
+900:253:115:5
+901:115:297:5
+902:297:115:5
+903:207:253:5
+904:253:207:5
+905:207:297:5
+906:297:207:5
+907:253:297:5
+908:297:253:5
+###### Arcs des changements à Gare de l'Est (3 minutes chacun) : lignes 4,5,7
+909:82:113:3
+910:113:82:3
+911:82:163:3
+912:163:82:3
+913:113:163:3
+914:163:113:3
+###### Arcs des changements à Strasbourg - Saint-Denis (3 minutes chacun) : lignes 4,8,9
+915:84:206:3
+916:206:84:3
+917:84:252:3
+918:252:84:3
+919:206:252:3
+920:252:206:3
+###### Arcs des changements à Montparnasse - Bienvenüe (4 minutes chacun) : lignes 4,6,12,13
+921:95:136:4
+922:136:95:4
+923:95:322:4
+924:322:95:4
+925:95:338:4
+926:338:95:4
+927:136:322:4
+928:322:136:4
+929:136:338:4
+930:338:136:4
+931:322:338:4
+932:338:322:4
+###### Arcs des changements à Place d'Italie (3 minutes chacun) : lignes 5,6,7
+933:124:143:3
+934:143:124:3
+935:124:179:3
+936:179:124:3
+937:143:179:3
+938:179:143:3
+###### Arcs des changements à La Motte-Picquet - Grenelle (3 minutes chacun) : lignes 6,8,10
+939:132:196:3
+940:196:132:3
+941:132:277:3
+942:277:132:3
+943:196:277:3
+944:277:196:3
+###### Arcs des changements à Madeleine (3 minutes chacun) : lignes 8,12,14
+945:201:314:3
+946:314:201:3
+947:201:364:3
+948:364:201:3
+949:314:364:3
+950:364:314:3
+###### Arcs du changement de 5 minutes à Saint-Michel (ligne 4) / Cluny - La Sorbonne (ligne 10)
+951:90:284:5
+952:284:90:5
+###### Arcs des changements de 4 minutes à Gare du Nord (lignes 4 et 5) / La Chapelle (ligne 2)
+953:39:81:4
+954:81:39:4
+955:39:112:4
+956:112:39:4
+###### Arcs des changements de 5 minutes à Saint-Lazare (lignes 3,12,13,14) / Saint-Augustin (ligne 9)
+957:246:60:5
+958:60:246:5
+959:246:313:5
+960:313:246:5
+961:246:345:5
+962:345:246:5
+963:246:363:5
+964:363:246:5
+###### Arcs du changement à Maison Blanche (2 minutes) : ligne 7
+965:180:384:2
+966:384:180:2
+967:181:384:2
+968:384:181:2
+###### Arcs du changement à Boulogne - Jean Jaurès (2 minutes) : ligne 10
+969:266:385:2
+970:385:266:2
+971:267:385:2
+972:385:267:2
+###### Arcs du changement à Javel - André Citroën (2 minutes) : ligne 10
+973:271:386:2
+974:386:271:2
+975:275:386:2
+976:386:275:2
+###### Arcs du changement à La Fourche (2 minutes) : ligne 13
+977:347:387:2
+978:387:347:2
+979:348:387:2
+980:387:348:2
+###### Arcs du changement à Botzaris (2 minutes) : ligne 7bis
+981:379:388:2
+982:388:379:2
+983:380:388:2
+984:388:380:2
+
+
+
