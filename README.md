@@ -7,11 +7,11 @@ The Dijkstra algorithm is used to find the shortest paths between nodes in a gra
 
 ## User guide
 
-* Run ProgramPrincipal.java
-* The available metro lines will be displayed in the terminal
-* Enter the departing station line number
-* Enter the arrival station line number
-* The available metro station of the chosen lines will be displayed in the terminal
-* Enter the departing station number
-* Enter the arrival station number
-* The optimal path will be displayed along with the necessary changes and total minutes it takes to arrive 
+1. Run ProgramPrincipal.java
+2. The available metro lines will be displayed in the terminal
+3. Enter the departure station line number
+4. Enter the arrival station line number
+5. The available metro station of the chosen lines will be displayed in the terminal
+6. Enter the departure station number
+7. Enter the arrival station number
+8. The optimal path will be displayed along with the necessary changes and total minutes it takes to reach the arrival station 
